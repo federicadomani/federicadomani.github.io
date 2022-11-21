@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 permalink: /AutoClicker2-Record-Play/
 title: AutoClicker2 Record Play (The Lists Of Mouse Clicks)
 description_rich: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons.  Advanced 2022 fork of frozen or proprietary <a href="https://www.opautoclicker.com" target="_blank">opautoclicker.com</a>, <a href="https://sourceforge.net/projects/orphamielautoclicker/" target="_blank">sourceforge.net</a>, <a href="https://www.autoclicker.io" target="_blank">autoclicker.io</a>, <a href="https://www.autoclicker.org" target="_blank">autoclicker.org</a>, <a href="https://www.macrorecorder.com" target="_blank">macrorecorder.com</a>, <a href="https://www.remouse.com" target="_blank">remouse.com</a>, etc.
@@ -29,7 +29,7 @@ SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.4.0.exe)= 1906dc543dcc49431
 
 #### Previous stable version&nbsp;5.9.3.2
 
-Official Download: [Mirror 1](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe), [Mirror 2](https://www.open-source.tech/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/WindowsInstaller/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe)
+Official Download: [Mirror 1](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe), [Mirror 2](https://federicadomani.github.io/AutoClicker2-Record-Play/WindowsInstaller/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe)
 
 SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe)= 58e0ee4ebed2d0b8a7187c617f22f589f4db20c9d91369b15ee6e0c9796e5b94
 
@@ -161,17 +161,6 @@ Most important features of {{page.app_name}} are listed here.
 * {{page.app_name_ex}} version 5.9.4.0 - Sequence of mouse clicks recorded and loaded from a text file.
 
 ![{{page.app_name_ex}} version 5.9.4.0 - Sequence of mouse clicks recorded and loaded from a text file.](screenshots_new/v5.9.4.0/AutoClicker2Ex_v5.9.4.0_seq.png)
-
-<a name="Screenshots_v5_9_3_2"></a>
-### Screenshots for previous version 5.9.3.2
-
-* {{page.app_name}} version 5.9.3.2 - Both apps of the package together in one screen.
-
-![{{page.app_name}} version 5.9.3.2 - Both apps of the package together in one screen.](screenshots_new/v5.9.3.1/AutoClicker2_v5.9.3.2.jpg)
-
-* {{page.app_name}} version 5.9.3.2 - AutoClicker2: Sequence of mouse clicks recorded and loaded from a text file.
-
-![{{page.app_name}} version 5.9.3.2 - AutoClicker2: Sequence of mouse clicks recorded and loaded from a text file.](screenshots_new/v5.9.3.1/AutoClicker2-v5.9.3.2-sequence.jpg)
 
 ### Screencast video for previous version 5.9.3.1
 
