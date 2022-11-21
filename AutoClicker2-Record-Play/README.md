@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 description_rich: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons.  Advanced 2022 fork of frozen or proprietary <a href="https://www.opautoclicker.com" target="_blank">opautoclicker.com</a>, <a href="https://sourceforge.net/projects/orphamielautoclicker/" target="_blank">sourceforge.net</a>, <a href="https://www.autoclicker.io" target="_blank">autoclicker.io</a>, <a href="https://www.autoclicker.org" target="_blank">autoclicker.org</a>, <a href="https://www.macrorecorder.com" target="_blank">macrorecorder.com</a>, <a href="https://www.remouse.com" target="_blank">remouse.com</a>, etc.
 description: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons.  Advanced 2022 fork of frozen or proprietary opautoclicker.com, sourceforge.net, autoclicker.io, autoclicker.org, macrorecorder.com, remouse.com, etc.
 app_name: AutoClicker2 Record Play The Lists Of Mouse Clicks
