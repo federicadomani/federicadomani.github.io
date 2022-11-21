@@ -23,13 +23,13 @@ source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-Th
 
 ### Latest stable version&nbsp;{{page.app_version}}
 
-Official Download: [Mirror 1]({{page.download_link_main}}), [Mirror 2]({{page.download_link_mirror}})
+Official Download: [Mirror 1]({{page.download_link_main}})
 
 SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.4.0.exe)= 1906dc543dcc4943109af2d18d7b838d7d9cc295ebf35e5b68b8112e53143c1d
 
 #### Previous stable version&nbsp;5.9.3.2
 
-Official Download: [Mirror 1](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe), [Mirror 2](https://federicadomani.github.io/AutoClicker2-Record-Play/WindowsInstaller/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe)
+Official Download: [Mirror 1](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe)
 
 SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe)= 58e0ee4ebed2d0b8a7187c617f22f589f4db20c9d91369b15ee6e0c9796e5b94
 
@@ -105,9 +105,6 @@ AutoClicker2 Record Play The Lists Of Mouse Clicks is 100% open source project, 
 
 Also AutoClicker2 import/export features over mouse clicking sequences discover professional
 [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance){:target="_blank"} usage.
-
-According to [top-10-mouse-auto-clickers.best](https://top-10-mouse-auto-clickers.best/#top_10_auto_clickers){:target="_blank"},
-{{page.app_name}} is the world's top 2 mouse auto clicker application in 2022.
 
 {{page.app_name}} is a mature mouse clicker framework for Windows that can record, save, play and randomize the whole groups/sequences/lists of mouse clicks/actions/events as well as operate with fine structures of clicking sequences to vary mouse button, time interval between clicks and much more.
 As its predecessors, AutoClicker2 is a full-fledged autoclicker with two modes of autoclicking, at your dynamic cursor location or at a prespecified location. The maximum amounts of clicked can also be set (or left as infinite).
