@@ -1,34 +1,3 @@
-title: AutoClicker2 Record Play The Lists Of Mouse Clicks | Official Download
-logo: favicon_large.png
-description_rich: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons.  Advanced 2022 fork of frozen or proprietary <a href="https://www.opautoclicker.com" target="_blank">opautoclicker.com</a>, <a href="https://sourceforge.net/projects/orphamielautoclicker/" target="_blank">sourceforge.net</a>, <a href="https://www.autoclicker.io" target="_blank">autoclicker.io</a>, <a href="https://www.autoclicker.org" target="_blank">autoclicker.org</a>, <a href="https://www.macrorecorder.com" target="_blank">macrorecorder.com</a>, <a href="https://www.remouse.com" target="_blank">remouse.com</a>, etc.
-description: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons.  Advanced 2022 fork of frozen or proprietary opautoclicker.com, sourceforge.net, autoclicker.io, autoclicker.org, macrorecorder.com, remouse.com, etc.
-show_downloads: true
 theme: jekyll-theme-minimal
-https_root_url: https://www.open-source.tech
-project_suburl: AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
-author: Open-Source.tech, a collaboration of open source developers
-custom_css: assets/css/style.css
-custom_scale_js: assets/js/scale.fix.js
-home_href: index.html#begin
-home_aname: begin
-app_name: AutoClicker2 Record Play The Lists Of Mouse Clicks
-app_name_ex: AutoClicker2Ex Record Play The Lists Of Mouse Clicks
-app_version: 5.9.4.0
-app_screenshot_main: AutoClicker2_v5.9.4.0.png
-app_screenshots_others:
-- image: AutoClicker2Ex_v5.9.4.0.png
-app_applicationCategory: Utilities
-app_applicationSubCategory: Mouse Auto-Clicker
-app_datePublished: 2022-06-14
-app_userInteractionCount: 11443806
-app_ratingValue: 4.8
-app_ratingCount: 96
-source_fork_count: 25
-source_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/
-source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
-source_name: github
-download_type: Windows installer
-download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.4.0.exe
-download_link_mirror: https://www.open-source.tech/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/WindowsInstaller/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.4.0.exe
-developer_name: federicadomani
-developer_email: mailto:federicadomani@mailfence.com
+title: AutoClicker2 Record Play (The Lists Of Mouse Clicks)
+description: Bookmark this to keep an eye on my project updates!
