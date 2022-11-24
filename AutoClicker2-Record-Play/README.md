@@ -16,7 +16,7 @@ source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-Th
 
 > Updated Nov 21 2022. New version [v5.9.4.0](index.html#ChangeLog) has been released. AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
 
-### {{page.description_rich}}
+** {{page.description_rich}} **
 
 <a name="QuickStart"></a>
 ## Quick Start
@@ -64,13 +64,6 @@ Found a bug? Create the [issue]({{page.source_issues_url}}){:target="_blank"}!
 ### Rebranding
 
 The project is undergoing re-branding from "RPG AutoClicker Professional Suite for Windows" and "AutoClicker2 Record-Play for Windows" to "{{page.app_name}}". Some text labels in the application and the site may be inconsistent.
-
-## Table of Contents
-
-* [Detailed Description](index.html#DetailedDescription)
-* [Features](index.html#Features)
-* [Screenshots](index.html#Screenshots)
-* [Contacts](index.html#Contacts)
 
 <a name="DetailedDescription"></a>
 ## Detailed Description
