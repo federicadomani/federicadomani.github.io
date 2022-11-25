@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /
+---
+
 # federicadomani's homepage
 
 ## My Projects
