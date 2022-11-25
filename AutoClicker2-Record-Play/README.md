@@ -156,7 +156,7 @@ Most important features of {{page.app_name}} are listed here.
 
 How to download, install and use {{page.app_name}} v5.9.3.1.
 
-<p><iframe width="300" height="225" src="https://www.youtube.com/embed/jscqOm4OeKM?autoplay=0&rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="333" height="250" src="https://www.youtube.com/embed/jscqOm4OeKM?autoplay=0&rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Formerly "AutoClicker2 Record-Play for Windows" and "RPG AutoClicker Professional Suite for Windows" - that names one can see on old screenshots.
 
