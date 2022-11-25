@@ -15,6 +15,9 @@ p {
 
 @media only screen and (max-device-width: 767px) and (orientation: landscape) {
 
+h1, h2 {
+    padding: 0px;
+}
 
 h3, h4, h5, h6 {
     padding: 4px;
