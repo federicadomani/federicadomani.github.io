@@ -14,7 +14,7 @@ source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-Th
 
 ## ![Windows](../windows.svg) {{page.title}}
 
-> Updated Nov 21 2022. New version [v5.9.4.0](index.html#ChangeLog) has been released. AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
+> Updated Nov 27 2022. New version [v5.9.4.0](index.html#ChangeLog) has been released. AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
 
 **{{page.description_rich}}**
 
