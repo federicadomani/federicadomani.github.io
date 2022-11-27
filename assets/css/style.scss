@@ -3,9 +3,8 @@
 
 @import "{{ site.theme }}";
 
-body {
+html, body {
     overflow-x: hidden;
-    background-color: #666;
 }
 
 #title h1 {
