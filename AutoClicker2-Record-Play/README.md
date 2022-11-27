@@ -10,6 +10,8 @@ app_version: 5.9.4.0
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.4.0.exe
 download_link_mirror: https://federicadomani.github.io/AutoClicker2-Record-Play/WindowsInstaller/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.4.0.exe
 source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
+show_downloads: true
+github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
 ---
 
 ## ![Windows](../windows.svg) {{page.title}}
