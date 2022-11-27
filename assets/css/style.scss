@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+    overflow: hidden;
+    background-color: #666;
+}
