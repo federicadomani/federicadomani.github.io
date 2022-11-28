@@ -38,6 +38,14 @@ blockquote {
     border-left: 2px solid #cf3;
 }
 
+ul {
+  list-style-image: url('../images/bullet.png');
+}
+
+li::marker {
+  font-size: 1rem;
+}
+
 
 
 @media only screen and (max-width: 767px) {
