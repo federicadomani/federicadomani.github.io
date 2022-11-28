@@ -38,7 +38,7 @@
 "isPartOf":{
 "@type": "WebSite",
 "url" : "{{ site.url }}"
-},
+}{% if page.app_name %},
 "mainEntity":{
 "@type":"SoftwareApplication",
 "name":"{{ page.app_name | default: site.app_name }}",
@@ -75,12 +75,13 @@
 "screenshot":[
 {
 "@type": "ImageObject",
-"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}/screenshots_new/v{{ page.app_version | default: site.app_version }}/AutoClicker2_v5.9.4.0.png"
+"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}screenshots_new/v{{ page.app_version | default: site.app_version }}/AutoClicker2_v5.9.4.0.png"
 },
 {
 "@type": "ImageObject",
-"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}/screenshots_new/v{{ page.app_version | default: site.app_version }}/AutoClicker2Ex_v5.9.4.0.png"
+"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}screenshots_new/v{{ page.app_version | default: site.app_version }}/AutoClicker2Ex_v5.9.4.0.png"
 } ]
+{% endif %}
 }
 </script>
 
