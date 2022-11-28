@@ -34,3 +34,28 @@ hr {
 blockquote {
     border-left: 2px solid #cf3;
 }
+
+
+
+@media only screen and (max-width: 767px) {
+
+
+
+  #header {
+    margin-top: 0px;
+  }
+
+  section {
+    margin-top: 0px;
+  }
+  nav {
+    display: block;
+  }
+
+.large_disp {
+    display: none;
+}
+
+
+
+}
