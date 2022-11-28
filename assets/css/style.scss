@@ -38,22 +38,6 @@ blockquote {
     border-left: 2px solid #cf3;
 }
 
-ul {
-  list-style: none; /* Remove HTML bullets */
-  padding: 0;
-  margin: 0;
-}
-
-li {
-  padding-left: 16px;
-}
-
-li::before {
-  content: '•'; /* Insert content that looks like bullets */
-  padding-right: 8px;
-  color: #fff; /* Or a color you prefer */
-}
-
 
 
 @media only screen and (max-width: 767px) {
