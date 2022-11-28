@@ -10,3 +10,78 @@
 <!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
 
 <!-- end custom head snippets -->
+
+<title>{{ page.title | default: site.title }}</title>
+<!-- Begin formerly Jekyll SEO tag v2.6.1 -->
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content=">{{ page.title | default: site.title }}</" />
+<meta name="author" content="{{ site.author }}" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="{{ page.description | default: site.description }}" />
+<meta property="og:description" content="{{ page.description | default: site.description }}" />
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+<meta property="og:site_name" content="{{ page.title | default: site.title }}" />
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}/og_thumb_1200x630.png" />
+<meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}/og_thumb_1200x630.png" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+<meta property="twitter:title" content=">{{ page.title | default: site.title }}</" />
+<meta property="twitter:description" content="{{ page.description | default: site.description }}" />
+<meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}/og_thumb_1200x630.png" />
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"WebPage",
+"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+"isPartOf":{
+"@type": "WebSite",
+"url" : "{{ site.url }}"
+},
+"mainEntity":{
+"@type":"SoftwareApplication",
+"name":"page.app_name | default: site.app_name",
+"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+"description":"{{ page.description | default: site.description }}",
+"image": "{{ site.url }}{{ site.baseurl }}{{ page.url }}/og_thumb_1200x630.png",
+"operatingSystem":"Windows",
+"softwareVersion":"{{ page.app_version | default: site.app_version }}",
+"datePublished":"2020-10-19",
+"interactionStatistic":{
+"@type": "InteractionCounter",
+"interactionType": "https://schema.org/DownloadAction",
+"userInteractionCount": "13859362"
+},
+"applicationCategory":"Utilities",
+"applicationSubCategory":"Mouse Auto-Clicker",
+"author":{
+"@type":"Organization",
+"name":"{{ page.author | default: site.author }}",
+"url":"{{ site.url }}"
+},
+"offers": {
+"@type": "Offer",
+"price": "0",
+"priceCurrency":"EUR"
+},
+"aggregateRating":{
+"@type":"AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "112",
+"bestRating":"5",
+"worstRating":"0"
+},
+"screenshot":[
+{
+"@type": "ImageObject",
+"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}/screenshots_new/v{{ page.app_version | default: site.app_version }}/AutoClicker2_v5.9.4.0.png"
+},
+{
+"@type": "ImageObject",
+"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}/screenshots_new/v{{ page.app_version | default: site.app_version }}/AutoClicker2Ex_v5.9.4.0.png"
+} ]
+}
+</script>
+
+<!-- End formerly Jekyll SEO tag -->
