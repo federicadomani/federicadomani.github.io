@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+
+
 html, body {
     overflow-x: hidden;
 }
@@ -23,6 +25,7 @@ body {
 #header {
     background-color: #336;
   border-bottom: 4px solid #336;
+  margin-top: -4px;
 }
 
 hr {
@@ -41,12 +44,8 @@ blockquote {
 
 
 
-  #header {
-    margin-top: 0px;
-  }
-
-  section {
-    margin-top: 40px;
+  div.wrapper {
+    margin-top: 46px;
   }
   nav {
     display: block;
