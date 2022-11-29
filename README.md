@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# federicadomani's homepage
+## federicadomani's homepage
 
 ## My Projects
 
