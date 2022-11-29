@@ -14,7 +14,7 @@ show_downloads: true
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
 ---
 
-## ![Windows](../windows.svg) {{page.title}}
+
 
 > Updated Nov 27 2022. New version [v5.9.4.0](index.html#ChangeLog) has been released. AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
 
