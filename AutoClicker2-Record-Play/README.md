@@ -16,7 +16,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Updated Jan 28 2023. New version [v5.9.4.0](index.html#ChangeLog) has been released. AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
+> Updated Feb 11 2023. New version [v5.9.4.0](index.html#ChangeLog) has been released. AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
 
 **{{page.description_rich}}**
 
@@ -161,6 +161,11 @@ How to download, install and use {{page.app_name}} v5.9.3.1.
 <p><iframe width="333" height="250" src="https://www.youtube.com/embed/jscqOm4OeKM?autoplay=0&rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Formerly "AutoClicker2 Record-Play for Windows" and "RPG AutoClicker Professional Suite for Windows" - that names one can see on old screenshots.
+
+# Build
+
+Build with MS Visual Studio 2013.
+Programming language: C#.
 
 <a name="Contacts"></a>
 ## Contacts
