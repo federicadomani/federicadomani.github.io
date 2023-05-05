@@ -12,4 +12,4 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 ### ![Windows](./windows.svg) [AutoClicker2 Record Play (The Lists Of Mouse Clicks)](https://federicadomani.github.io/AutoClicker2-Record-Play/)
 
-> Updated Apr 14 2023. New version v5.9.4.0 has been released. AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
+> Updated May 05 2023. New version v5.9.4.0 has been released. AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
