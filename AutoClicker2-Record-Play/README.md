@@ -163,6 +163,10 @@ How to download, install and use {{page.app_name}} v5.9.3.1.
 
 Formerly "AutoClicker2 Record-Play for Windows" and "RPG AutoClicker Professional Suite for Windows" - that names one can see on old screenshots.
 
+## Workaround Windows UAC
+
+![Workaround Windows UAC](screenshots_new/v5.9.5.1/AutoClicker_win10uac.png)
+
 ## Build
 
 Build with MS Visual Studio 2013.
