@@ -169,38 +169,63 @@ on the screen. It is an actively developed open source project with GitHub stars
 
 ## Quick user manual in screenshots
 
-* {{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.
+### {{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.
 
 Run the app named AutoClicker2.exe. In the main window menu select Options->Hotkeys. Modal window appears. Click the button representing each hotkey.
 Press new hotkey. Close the window.
 
 ![{{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.](screenshots_new/v5.9.5.1/AutoClicker2_hotkeys-idx64.png)
 
-* {{page.app_name}} - How to save the mouse clicking sequence that has been recorded.
+### {{page.app_name}} - How to save the mouse clicking sequence that has been recorded.
 
 Run the app named AutoClicker2.exe. In the main window click on the radio button "Fixed Pos.". Move the mouse around the screen. Where desired, press the key that adds
 a mouse click to the sequence. Default key is F3. A text label below the radio button "Fixed Pos." shows X and Y coordinates of the last clicking event and total number
 of clicks in the sequence recorded (shown in brackets). In the main window menu select File->Save. Then choose a name for simple text file where the clicking sequence will
 be stored.
 
-![{{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.](screenshots_new/v5.9.5.1/AutoClicker2_saveseq-idx64.png)
+![{{page.app_name}} - How to save the mouse clicking sequence that has been recorded.](screenshots_new/v5.9.5.1/AutoClicker2_saveseq-idx64.png)
 
-* {{page.app_name}} - How to record a mouse clicking sequence; step 1.
+### {{page.app_name}} - How to record a mouse clicking sequence.
 
 Run the app named AutoClicker2.exe. In the main window click on the radio button "Fixed Pos.". Move the mouse around the screen. Where desired, press the key that adds
 a mouse click to the sequence. A yellow text label below and left the radio button "Fixed Pos." shows current mouse position,
-while text label below and right the radio button "Fixed Pos." shows last recorded mouse clicking event and number of events in the sequence (in the brackets).
+while text label below and right the radio button "Fixed Pos." shows the last recorded mouse clicking event and number of events in the sequence (in the brackets).
 
-![{{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.](screenshots_new/v5.9.5.1/AutoClicker2_seq_1-idx64.png)
+![{{page.app_name}} - How to record a mouse clicking sequence.](screenshots_new/v5.9.5.1/AutoClicker2_seq_1-idx64.png)
 
-* {{page.app_name}} - How to record a mouse clicking sequence; step 2.
+### {{page.app_name}} - How to save a mouse clicking sequence into a simple text file.
 
 After step 1 your clicking sequence is recorded and being stored in a computer's RAM. You wish to save it on disk.
 In the main window menu select File->Save. Then choose a name for simple text file where the clicking sequence will
 be stored. You can use the text file saved with the clicking sequence recorded in any other Windows application. As well as any other app can generate a simple text file
 with mouse clicking sequence to be loaded into AutoClicker2.
 
-![{{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.](screenshots_new/v5.9.5.1/AutoClicker2_seq_2-idx64.png)
+![{{page.app_name}} - How to save a mouse clicking sequence into a simple text file.](screenshots_new/v5.9.5.1/AutoClicker2_seq_2-idx64.png)
+
+### {{page.app_name}} - How to delete the whole mouse clicking sequence that was just recorded.
+
+We assume you have just recorded a new mouse clicking sequence. In the main window press the key that wipes the whole sequence recorded. Default key is DELETE.
+A text label below and right the radio button "Fixed Pos." shows the last recorded mouse clicking event and number of events in the sequence (in the brackets).
+When you press the DELETE key, this label shows "X=0,Y=0(0)", indicating there is no more clicking sequence in the computer's RAM.
+
+![{{page.app_name}} - How to delete the whole mouse clicking sequence that was just recorded.](screenshots_new/v5.9.5.1/AutoClicker2_seq_3-idx64.png)
+
+### {{page.app_name}} - How to load a mouse clicking sequence previously recorded.
+
+Run the app named AutoClicker2.exe. In the main window menu select File->Load. A standard system modal window appears to choose a simple text file
+with mouse clicking sequence inside. If the file contains an error, AutoClicker2 will inform you. Otherwise, the app loads a new clicking sequence from a file.
+
+![{{page.app_name}} - How to load a mouse clicking sequence previously recorded.](screenshots_new/v5.9.5.1/AutoClicker2_seq_4-idx64.png)
+
+### {{page.app_name}} - How to load a mouse clicking sequence previously recorded. What else?
+
+When the app named AutoClicker2.exe loads a new clicking sequence from a file,
+a text label below and right the radio button "Fixed Pos." shows the last recorded mouse clicking event and number of events in the sequence (in the brackets).
+You can now work with this clicking sequence exactly as if it were just recorded by your hands.
+
+![{{page.app_name}} - How to load a mouse clicking sequence previously recorded. What else?](screenshots_new/v5.9.5.1/AutoClicker2_seq_5-idx64.png)
+
+
 
 
 ### Screencast video for previous version 5.9.3.1
