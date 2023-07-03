@@ -41,7 +41,7 @@ SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe)= 58e0ee4ebed2d0b8a
 
 "AutoClicker2" application | "AutoClicker2Ex" application
 ----- | -----
-![{{page.app_name}} version {{page.app_version}}: "AutoClicker2" application](screenshots_new/v{{page.app_version}}/AutoClicker2_v5.9.5.1.png) | ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2Ex" application](screenshots_new/v{{page.app_version}}/AutoClicker2Ex_v5.9.5.1.png)
+![{{page.app_name}} version {{page.app_version}}: "AutoClicker2" application](screenshots_new/v{{page.app_version}}/AutoClicker2_v5.9.5.1-idx64.png) | ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2Ex" application](screenshots_new/v{{page.app_version}}/AutoClicker2Ex_v5.9.5.1-idx64.png)
 
 ### ChangeLog
 
