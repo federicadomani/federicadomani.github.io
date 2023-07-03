@@ -16,7 +16,8 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Updated Jun 29 2023. New version v5.9.5.1 has been released. AutoClicker2 has got colored GUI; AutoClicker2Ex has got colored and simplified GUI.
+> Updated Jul 03 2023. New version v5.9.5.1 has been released. AutoClicker2 has got colored GUI; AutoClicker2Ex has got colored and simplified GUI.
+Quick user manual in screenshots has been added.
 
 **{{page.description_rich}}**
 
@@ -156,15 +157,51 @@ on the screen. It is an actively developed open source project with GitHub stars
 
 * {{page.app_name}} version 5.9.5.1 vs. Op AutoClicker (aka OrphamielAutoClicker) - Single Clicking Mode.
 
-![{{page.app_name}} version 5.9.5.1 vs. Op AutoClicker (aka OrphamielAutoClicker) - Single Clicking Mode.](screenshots_new/v5.9.5.1/AutoClicker2_v5.9.5.1.png)
+![{{page.app_name}} version 5.9.5.1 vs. Op AutoClicker (aka OrphamielAutoClicker) - Single Clicking Mode.](screenshots_new/v5.9.5.1/AutoClicker2_v5.9.5.1-idx64.png)
 
 * {{page.app_name_ex}} version 5.9.5.1 vs. Op AutoClicker (aka OrphamielAutoClicker) - Group Clicking Mode.
 
-![{{page.app_name_ex}} version 5.9.5.1 vs. Op AutoClicker (aka OrphamielAutoClicker) - Group Clicking Mode.](screenshots_new/v5.9.5.1/AutoClicker2Ex_v5.9.5.1.png)
+![{{page.app_name_ex}} version 5.9.5.1 vs. Op AutoClicker (aka OrphamielAutoClicker) - Group Clicking Mode.](screenshots_new/v5.9.5.1/AutoClicker2Ex_v5.9.5.1-idx64.png)
 
 * {{page.app_name_ex}} version 5.9.5.1 - Sequence of mouse clicks recorded and loaded from a text file.
 
-![{{page.app_name_ex}} version 5.9.5.1 - Sequence of mouse clicks recorded and loaded from a text file.](screenshots_new/v5.9.5.1/AutoClicker2Ex_v5.9.5.1_seq.png)
+![{{page.app_name_ex}} version 5.9.5.1 - Sequence of mouse clicks recorded and loaded from a text file.](screenshots_new/v5.9.5.1/AutoClicker2Ex_v5.9.5.1_seq-idx64.png)
+
+## Quick user manual in screenshots
+
+* {{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.
+
+Run the app named AutoClicker2.exe. In the main window menu select Options->Hotkeys. Modal window appears. Click the button representing each hotkey.
+Press new hotkey. Close the window.
+
+![{{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.](screenshots_new/v5.9.5.1/AutoClicker2_hotkeys-idx64.png)
+
+* {{page.app_name}} - How to save the mouse clicking sequence that has been recorded.
+
+Run the app named AutoClicker2.exe. In the main window click on the radio button "Fixed Pos.". Move the mouse around the screen. Where desired, press the key that adds
+a mouse click to the sequence. Default key is F3. A text label below the radio button "Fixed Pos." shows X and Y coordinates of the last clicking event and total number
+of clicks in the sequence recorded (shown in brackets). In the main window menu select File->Save. Then choose a name for simple text file where the clicking sequence will
+be stored.
+
+![{{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.](screenshots_new/v5.9.5.1/AutoClicker2_saveseq-idx64.png)
+
+* {{page.app_name}} - How to record a mouse clicking sequence; step 1.
+
+Run the app named AutoClicker2.exe. In the main window click on the radio button "Fixed Pos.". Move the mouse around the screen. Where desired, press the key that adds
+a mouse click to the sequence. A yellow text label below and left the radio button "Fixed Pos." shows current mouse position,
+while text label below and right the radio button "Fixed Pos." shows last recorded mouse clicking event and number of events in the sequence (in the brackets).
+
+![{{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.](screenshots_new/v5.9.5.1/AutoClicker2_seq_1-idx64.png)
+
+* {{page.app_name}} - How to record a mouse clicking sequence; step 2.
+
+After step 1 your clicking sequence is recorded and being stored in a computer's RAM. You wish to save it on disk.
+In the main window menu select File->Save. Then choose a name for simple text file where the clicking sequence will
+be stored. You can use the text file saved with the clicking sequence recorded in any other Windows application. As well as any other app can generate a simple text file
+with mouse clicking sequence to be loaded into AutoClicker2.
+
+![{{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.](screenshots_new/v5.9.5.1/AutoClicker2_seq_2-idx64.png)
+
 
 ### Screencast video for previous version 5.9.3.1
 
