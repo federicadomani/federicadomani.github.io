@@ -1,7 +1,11 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: federicadomani's homepage
-description: Bookmark this to keep an eye on my project updates!
 logo: favicon_large.png
 author: Open Source Developer Federica Domani
+title: AutoClicker2 Record Play (The Lists Of Mouse Clicks)
+description_rich: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons.  Advanced 2022 fork of frozen or proprietary <a href="https://www.opautoclicker.com" target="_blank">opautoclicker.com</a>, <a href="https://sourceforge.net/projects/orphamielautoclicker/" target="_blank">sourceforge.net</a>, <a href="https://www.autoclicker.io" target="_blank">autoclicker.io</a>, <a href="https://www.autoclicker.org" target="_blank">autoclicker.org</a>, <a href="https://www.macrorecorder.com" target="_blank">macrorecorder.com</a>, <a href="https://www.remouse.com" target="_blank">remouse.com</a>, etc.
+description: Open source mouse auto-clicker (opautoclicker fork) to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 gamer mouse buttons.
+app_name: AutoClicker2 Record Play The Lists Of Mouse Clicks
+app_name_ex: AutoClicker2Ex Record Play The Lists Of Mouse Clicks
+app_version: 5.9.5.1
