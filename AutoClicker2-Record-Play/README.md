@@ -167,6 +167,14 @@ on the screen. It is an actively developed open source project with GitHub stars
 
 ![{{page.app_name_ex}} version 5.9.5.1 - Sequence of mouse clicks recorded and loaded from a text file.](screenshots_new/v5.9.5.1/AutoClicker2Ex_v5.9.5.1_seq-idx64.png)
 
+### Screencast video for previous version 5.9.3.1
+
+How to download, install and use {{page.app_name}} v5.9.3.1.
+
+<p><iframe width="333" height="250" src="https://www.youtube.com/embed/jscqOm4OeKM?autoplay=0&rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Formerly "AutoClicker2 Record-Play for Windows" and "RPG AutoClicker Professional Suite for Windows" - that names one can see on old screenshots.
+
 ## Quick user manual in screenshots
 
 ### {{page.app_name}} - How to select the hotkeys to trigger mouse clicking events.
@@ -278,14 +286,6 @@ If a file contains no error, new clicking sequence will be loaded from a file to
 You can then playback or edit the sequence as usual.
 
 ![{{page.app_name_ex}} - How to load a mouse clicking sequence from a text file. What else?](screenshots_new/v5.9.5.1/AutoClicker2Ex_seq_5-idx64.png)
-
-### Screencast video for previous version 5.9.3.1
-
-How to download, install and use {{page.app_name}} v5.9.3.1.
-
-<p><iframe width="333" height="250" src="https://www.youtube.com/embed/jscqOm4OeKM?autoplay=0&rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-Formerly "AutoClicker2 Record-Play for Windows" and "RPG AutoClicker Professional Suite for Windows" - that names one can see on old screenshots.
 
 ## Workaround Windows UAC
 
