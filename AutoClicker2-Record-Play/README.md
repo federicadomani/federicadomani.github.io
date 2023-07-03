@@ -195,7 +195,7 @@ while text label below and right the radio button "Fixed Pos." shows the last re
 
 ### {{page.app_name}} - How to save a mouse clicking sequence into a simple text file.
 
-After step 1 your clicking sequence is recorded and being stored in a computer's RAM. You wish to save it on disk.
+Now your clicking sequence is recorded and being stored in a computer's RAM. You wish to save it on disk.
 In the main window menu select File->Save. Then choose a name for simple text file where the clicking sequence will
 be stored. You can use the text file saved with the clicking sequence recorded in any other Windows application. As well as any other app can generate a simple text file
 with mouse clicking sequence to be loaded into AutoClicker2.
@@ -222,11 +222,62 @@ with mouse clicking sequence inside. If the file contains an error, AutoClicker2
 When the app named AutoClicker2.exe loads a new clicking sequence from a file,
 a text label below and right the radio button "Fixed Pos." shows the last recorded mouse clicking event and number of events in the sequence (in the brackets).
 You can now work with this clicking sequence exactly as if it were just recorded by your hands.
+Furthermore, you can open a text file with your sequence in any text editor like Notepad and make arbitrary corrections to the clicking sequence.
 
 ![{{page.app_name}} - How to load a mouse clicking sequence previously recorded. What else?](screenshots_new/v5.9.5.1/AutoClicker2_seq_5-idx64.png)
 
+### {{page.app_name_ex}} - How to load a mouse clicking sequence from a text file.
 
+Run the app named AutoClicker2Ex.exe (another app in the suite of two programs). In the main window click on the "Load Sequence" button.
+Standard Windows dialog appears to choose a text file with mouse clicking sequence to load.
 
+![{{page.app_name_ex}} - How to load a mouse clicking sequence from a text file.](screenshots_new/v5.9.5.1/AutoClicker2Ex_loadseq-idx64.png)
+
+### {{page.app_name_ex}} - How to record a new mouse clicking sequence.
+
+Run the app named AutoClicker2Ex.exe. In the main window click one of the following buttons:
+
+* "Add Left Click (F4)" to add a left mouse button clicking event to the sequence being recorded;
+* "Add Right Click (F5)" to add a right mouse button clicking event to the sequence being recorded;
+* "Add Middle Click (F6)" to add a middle mouse button clicking event to the sequence being recorded.
+
+Once a button described above is being clicked, the corresponding mouse event is being added to the list resides in a top right part of the main window.
+
+![{{page.app_name_ex}} - How to record a new mouse clicking sequence.](screenshots_new/v5.9.5.1/AutoClicker2Ex_seq_1-idx64.png)
+
+### {{page.app_name_ex}} - How to edit a mouse clicking sequence.
+
+We assume AutoClicker2Ex.exe is running and few clicking events have been added to the sequence. Look at the list resides in a top right part of the main window.
+Now you can edit each column of the list. First column contains X-coordinate of the clicking event.
+Second column contains Y-coordinate of the clicking event. Third column contains a mouse button to click (L-Left, M-Middle, R-Right).
+Fourth column contains a time interval to the next click in milliseconds.
+
+You can edit the list by double-clicking on the column and row you wish to modify, then type a new parameter value. This is a standard Windows list widget.
+To modify mouse button, after double click to the corresponding column/row, you can type L/l (for left mouse button), M/m (for middle mouse button), R/r (for right mouse button),
+regardless a letter case.
+
+![{{page.app_name_ex}} - How to edit a mouse clicking sequence.](screenshots_new/v5.9.5.1/AutoClicker2Ex_seq_2-idx64.png)
+
+### {{page.app_name_ex}} - How to save a mouse clicking sequence to a text file.
+
+We assume AutoClicker2Ex.exe is running and few clicking events have been added/edited. In the main window click on the "Save Sequence" button.
+Standard Windows dialog appears to choose a text file name to save to it a mouse clicking sequence.
+
+Please note, simple text file format is not the same for AutoClicker2.exe and AutoClicker2Ex.exe, because AutoClicker2Ex.exe allows you to store more parameters
+for each clicking event in the sequence.
+
+![{{page.app_name_ex}} - How to save a mouse clicking sequence to a text file.](screenshots_new/v5.9.5.1/AutoClicker2Ex_seq_4-idx64.png)
+
+### {{page.app_name_ex}} - How to load a mouse clicking sequence from a text file. What else?
+
+Close and run the app named AutoClicker2Ex.exe again. You see there is no working mouse clicking sequence in the list.
+Ok, then in the main window click on the "Load Sequence" button.
+Standard Windows dialog appears to choose a text file with mouse clicking sequence to load.
+Select a text file with previously recorded sequence and click on the "Open" button.
+If a file contains no error, new clicking sequence will be loaded from a file to the working list.
+You can then playback or edit the sequence as usual.
+
+![{{page.app_name_ex}} - How to load a mouse clicking sequence from a text file. What else?](screenshots_new/v5.9.5.1/AutoClicker2Ex_seq_5-idx64.png)
 
 ### Screencast video for previous version 5.9.3.1
 
