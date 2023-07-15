@@ -16,7 +16,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Updated Jul 03 2023. New version v5.9.5.1 has been released. AutoClicker2 has got colored GUI; AutoClicker2Ex has got colored and simplified GUI.
+> Updated Jul 15 2023. New version v5.9.5.1 has been released. AutoClicker2 has got colored GUI; AutoClicker2Ex has got colored and simplified GUI.
 Quick user manual in screenshots has been added.
 
 **{{page.description_rich}}**
