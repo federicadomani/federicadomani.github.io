@@ -6,9 +6,10 @@ description_rich: Open source mouse auto-clicker to record, edit, import, debug,
 description: Open source mouse auto-clicker (opautoclicker fork) to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 gamer mouse buttons.
 app_name: AutoClicker2 Record Play The Lists Of Mouse Clicks
 app_name_ex: AutoClicker2Ex Record Play The Lists Of Mouse Clicks
-app_version: 5.9.5.1
-download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.5.1.exe
-download_link_mirror: https://federicadomani.github.io/AutoClicker2-Record-Play/WindowsInstaller/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.5.1.exe
+app_version: 5.9.6.0
+download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.6.0.exe
+download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.5.1.exe
+download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.6.0.exe
 source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
 show_downloads: true
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
@@ -16,7 +17,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Updated Jul 22 2023. New version v5.9.5.1 has been released. AutoClicker2 has got colored GUI; AutoClicker2Ex has got colored and simplified GUI.
+> Updated Aug 23 2023. New version 5.9.6.0 has been released. AutoClicker2 has got colored the mouse clicking status.
 Quick user manual in screenshots has been added.
 
 **{{page.description_rich}}**
@@ -28,29 +29,26 @@ Quick user manual in screenshots has been added.
 
 Official Download: [Mirror 1]({{page.download_link_main}})
 
+SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.6.0.exe)= 2c28f9dfe58a0cc72d76974220ede5b8686f97bfd8a699edc57748fc9459c20b
+
+#### Previous stable version&nbsp;5.9.5.1
+
+Official Download: [Mirror 1]({{page.download_link_main_prev}})
+
 SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.5.1.exe)= d2a2970d202df7695fa7fb03fb904f99f2a3fe29cc95e37d11fcdd6d9893feb0
-
-#### Previous stable version&nbsp;5.9.3.2
-
-Official Download: [Mirror 1](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe)
-
-SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.3.2.exe)= 58e0ee4ebed2d0b8a7187c617f22f589f4db20c9d91369b15ee6e0c9796e5b94
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{page.app_version}}
 
 "AutoClicker2" application | "AutoClicker2Ex" application
 ----- | -----
-![{{page.app_name}} version {{page.app_version}}: "AutoClicker2" application](screenshots_new/v{{page.app_version}}/AutoClicker2_v5.9.5.1-idx64.png) | ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2Ex" application](screenshots_new/v{{page.app_version}}/AutoClicker2Ex_v5.9.5.1-idx64.png)
+![{{page.app_name}} version {{page.app_version}}: "AutoClicker2" application](screenshots_new/v5.9.5.1/AutoClicker2_v5.9.5.1-idx64.png) | ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2Ex" application](screenshots_new/v5.9.5.1/AutoClicker2Ex_v5.9.5.1-idx64.png)
 
 ### ChangeLog
 
-* BRAND NEW. AutoClicker2 has got colored GUI; AutoClicker2Ex has got colored and simplified GUI.
-* BRAND NEW. AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
-* BRAND NEW. Five mouse buttons to click: Left, Right, Middle, XBUTTON1, XBUTTON2.
-* BRAND NEW. All the clicking parameters in the list of recorded clicks are editable.
-* Fix: show current mouse position in both apps (AutoClicker2.exe, AutoClicker2Ex.exe).
-* Fix: case-sensitive issues in mouse button editing validator of AutoClicker2Ex.exe.
+* AutoClicker2 has got colored the mouse clicking status.
+* AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
+* Five mouse buttons to click: Left, Right, Middle, XBUTTON1, XBUTTON2.
 * Minor bug fixes.
 
 Found a bug? Create the [issue]({{page.source_issues_url}}){:target="_blank"}!
@@ -153,7 +151,7 @@ on the screen. It is an actively developed open source project with GitHub stars
 ## Screenshots
 
 <a name="Screenshots_v5_9_4_0"></a><a name="Screenshots_v5_9_5_1"></a>
-### Screenshots for latest version 5.9.5.1
+### Screenshots for the previous version 5.9.5.1
 
 * {{page.app_name}} version 5.9.5.1 vs. Op AutoClicker (aka OrphamielAutoClicker) - Single Clicking Mode.
 
@@ -167,7 +165,7 @@ on the screen. It is an actively developed open source project with GitHub stars
 
 ![{{page.app_name_ex}} version 5.9.5.1 - Sequence of mouse clicks recorded and loaded from a text file.](screenshots_new/v5.9.5.1/AutoClicker2Ex_v5.9.5.1_seq-idx64.png)
 
-### Screencast video for previous version 5.9.3.1
+### Screencast video for the previous version 5.9.3.1
 
 How to download, install and use {{page.app_name}} v5.9.3.1.
 
