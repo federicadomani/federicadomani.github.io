@@ -159,7 +159,7 @@ on the screen. It is an actively developed open source project with GitHub stars
 
 ![{{page.app_name}} version 5.9.6.0 on Windows 11 (standard app).](screenshots_new/v5.9.6.0/Win11-AutoClicker2.jpg)
 
-* {{page.app_name}_ex} version 5.9.6.0 on Windows 11 (standard app).
+* {{page.app_name_ex}} version 5.9.6.0 on Windows 11 (standard app).
 
 ![{{page.app_name_ex}} version 5.9.6.0 on Windows 11 (extended app).](screenshots_new/v5.9.6.0/Win11-AutoClicker2Ex.jpg)
 
