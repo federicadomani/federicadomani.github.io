@@ -17,7 +17,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Updated Aug 23 2023. New version 5.9.6.0 has been released. AutoClicker2 has got colored the mouse clicking status.
+> Updated Oct 06 2023. New version 5.9.6.0 works on Windows 11. AutoClicker2 has got colored the mouse clicking status.
 Quick user manual in screenshots has been added.
 
 **{{page.description_rich}}**
@@ -43,9 +43,11 @@ SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.5.1.exe)= d2a2970d202df7695
 "AutoClicker2" application | "AutoClicker2Ex" application
 ----- | -----
 ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2" application](screenshots_new/v5.9.5.1/AutoClicker2_v5.9.5.1-idx64.png) | ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2Ex" application](screenshots_new/v5.9.5.1/AutoClicker2Ex_v5.9.5.1-idx64.png)
+![{{page.app_name}} version {{page.app_version}}: "AutoClicker2" application on Windows 11](screenshots_new/v5.9.6.0/Win11-AutoClicker2.jpg) | ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2Ex" application on Windows 11](screenshots_new/v5.9.6.0/Win11-AutoClicker2Ex.jpg)
 
 ### ChangeLog
 
+* New version 5.9.6.0 works on Windows 11!
 * AutoClicker2 has got colored the mouse clicking status.
 * AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
 * Five mouse buttons to click: Left, Right, Middle, XBUTTON1, XBUTTON2.
@@ -150,6 +152,17 @@ on the screen. It is an actively developed open source project with GitHub stars
 <a name="Screenshots"></a>
 ## Screenshots
 
+<a name="Screenshots_v5_9_6_0"></a>
+### Screenshots for the latest version 5.9.6.0 on Windows 11
+
+* {{page.app_name}} version 5.9.6.0 on Windows 11 (standard app).
+
+![{{page.app_name}} version 5.9.6.0 on Windows 11 (standard app).](screenshots_new/v5.9.6.0/Win11-AutoClicker2.jpg)
+
+* {{page.app_name}_ex} version 5.9.6.0 on Windows 11 (standard app).
+
+![{{page.app_name_ex}} version 5.9.6.0 on Windows 11 (extended app).](screenshots_new/v5.9.6.0/Win11-AutoClicker2Ex.jpg)
+
 <a name="Screenshots_v5_9_4_0"></a><a name="Screenshots_v5_9_5_1"></a>
 ### Screenshots for the previous version 5.9.5.1
 
@@ -169,7 +182,7 @@ on the screen. It is an actively developed open source project with GitHub stars
 
 How to download, install and use {{page.app_name}} v5.9.3.1.
 
-<p><iframe width="333" height="250" src="https://www.youtube.com/embed/jscqOm4OeKM?autoplay=0&rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe style="aspect-ratio: 16/9; width: 100%;" src="https://www.youtube.com/embed/jscqOm4OeKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 Formerly "AutoClicker2 Record-Play for Windows" and "RPG AutoClicker Professional Suite for Windows" - that names one can see on old screenshots.
 
