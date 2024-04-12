@@ -17,7 +17,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Updated Apr 05 2024. New version 5.9.6.0 works on Windows 11. AutoClicker2 has got colored the mouse clicking status.
+> Updated Apr 12 2024. New version 5.9.6.0 works on Windows 11. AutoClicker2 has got colored the mouse clicking status.
 Quick user manual in screenshots has been added.
 
 **{{page.description_rich}}**
