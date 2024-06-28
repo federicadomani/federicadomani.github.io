@@ -2,7 +2,7 @@
 layout: default
 permalink: /AutoClicker2-Record-Play/
 title: AutoClicker2 Record Play (The Lists Of Mouse Clicks)
-description_rich: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons.  Advanced 2022 fork of frozen or proprietary <a href="https://www.opautoclicker.com" target="_blank">opautoclicker.com</a>, <a href="https://sourceforge.net/projects/orphamielautoclicker/" target="_blank">sourceforge.net</a>, <a href="https://www.autoclicker.io" target="_blank">autoclicker.io</a>, <a href="https://www.autoclicker.org" target="_blank">autoclicker.org</a>, <a href="https://www.macrorecorder.com" target="_blank">macrorecorder.com</a>, <a href="https://www.remouse.com" target="_blank">remouse.com</a>, etc.
+description_rich: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons.  Advanced 2024 fork of frozen or proprietary <a href="https://www.opautoclicker.com" target="_blank">opautoclicker.com</a>, <a href="https://sourceforge.net/projects/orphamielautoclicker/" target="_blank">sourceforge.net</a>, <a href="https://www.autoclicker.io" target="_blank">autoclicker.io</a>, <a href="https://www.autoclicker.org" target="_blank">autoclicker.org</a>, <a href="https://www.macrorecorder.com" target="_blank">macrorecorder.com</a>, <a href="https://www.remouse.com" target="_blank">remouse.com</a>, etc.
 description: Open source mouse auto-clicker (opautoclicker fork) to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 gamer mouse buttons.
 app_name: AutoClicker2 Record Play The Lists Of Mouse Clicks
 app_name_ex: AutoClicker2Ex Record Play The Lists Of Mouse Clicks
@@ -69,7 +69,7 @@ The project is undergoing re-branding from "RPG AutoClicker Professional Suite f
 {{page.app_name}} {{page.app_version}} supports record, edit, debug, import, export, and playback the whole sequences of mouse clicks.
 
 Yes, this is the only mouse auto clicker with strong record/edit/play capabilities for professional work with sequences of mouse clicks.
-This is the only open source project that has regular commits into source tree in 2022.
+This is the only open source project that has regular commits into source tree in 2024.
 Perfectly compatible with Windows 7, Windows 8, Windows 10, [Windows 11](https://www.microsoft.com/en-us/software-download/windows11){:target="_blank"}, both 32-bit and 64-bit systems.
 
 AutoClicker2 Record Play The Lists Of Mouse Clicks is a new open source replacer of frozen, buggy, suspicious proprietary projects such as
