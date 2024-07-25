@@ -6,10 +6,10 @@ description_rich: Open source mouse auto-clicker to record, edit, import, debug,
 description: Open source mouse auto-clicker (opautoclicker fork) to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 gamer mouse buttons.
 app_name: AutoClicker2 Record Play The Lists Of Mouse Clicks
 app_name_ex: AutoClicker2Ex Record Play The Lists Of Mouse Clicks
-app_version: 5.9.6.0-fixed3
-download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play-The-Lists-v5.9.6.0/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.6.0-fixed3.exe
-download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.5.1.exe
-download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play-The-Lists-v5.9.6.0/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.6.0-fixed3.exe
+app_version: 5.9.7.1
+download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.7.1.exe
+download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.7.1.exe
+download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.7.1.exe
 source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
 show_downloads: true
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
@@ -17,8 +17,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Updated Jul 14 2024. New version 5.9.6.0-fixed3 works on Windows 11. AutoClicker2 has got colored the mouse clicking status.
-Quick user manual in screenshots has been added.
+> Updated Jul 25 2024. Better GUI emphasizing for Mouse Cur./Fixed Pos. clicking. New version 5.9.7.1 works on Windows 11.
 
 **{{page.description_rich}}**
 
@@ -29,7 +28,7 @@ Quick user manual in screenshots has been added.
 
 Official Download: [Mirror 1]({{page.download_link_main}})
 
-SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.6.0-fixed3.exe)= 6ec0fb0b541925e44b7250e6caa02c9a49ff4798b9158ad1b669b552254a0177
+SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.7.1.exe)= 1bd639e724c3de7d98267e17c351680db9eb000f1e5418444f337a49c1aa605b
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{page.app_version}}
@@ -41,7 +40,8 @@ SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.6.0-fixed3.exe)= 6ec0fb0b54
 
 ### ChangeLog
 
-* New version 5.9.6.0-fixed3 works on Windows 11!
+* Better GUI emphasizing for Mouse Cur./Fixed Pos. clicking.
+* New version 5.9.7.1 works on Windows 11!
 * AutoClicker2 has got colored the mouse clicking status.
 * AutoClicker2Ex has got "Load Sequence" and "Save Sequence" buttons.
 * Five mouse buttons to click: Left, Right, Middle, XBUTTON1, XBUTTON2.
