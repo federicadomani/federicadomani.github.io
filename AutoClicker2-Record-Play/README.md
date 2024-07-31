@@ -33,7 +33,7 @@ SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.7.1.exe)= 8aafde9ae9a3514e5
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{page.app_version}}
 
-"AutoClicker2" application vs. OP Auto Clicker | "AutoClicker2Ex" application vs. OP Auto Clicker
+"AutoClicker2" vs. OP Auto Clicker | "AutoClicker2Ex" vs. OP Auto Clicker
 ----- | -----
 ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2" application](screenshots_new/v5.9.7.1/AutoClicker2_v5.9.7.1-idx64.png) | ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2Ex" application](screenshots_new/v5.9.7.1/AutoClicker2Ex_v5.9.7.1-idx64.png)
 ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2" application on Windows 11](screenshots_new/v5.9.6.0/Win11-AutoClicker2.jpg) | ![{{page.app_name}} version {{page.app_version}}: "AutoClicker2Ex" application on Windows 11](screenshots_new/v5.9.6.0/Win11-AutoClicker2Ex.jpg)
