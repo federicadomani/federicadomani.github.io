@@ -28,8 +28,6 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 Official Download: [Mirror 1]({{page.download_link_main}})
 
-SHA256(Setup-AutoClicker2-Record-Play-The-Lists-v5.9.7.1.exe)= 8aafde9ae9a3514e504c2d271cb455a79813d98792f807b066bc45e1808c9727
-
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{page.app_version}}
 
