@@ -12,7 +12,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 ### ![Windows](./windows.svg) [AutoClicker2 Record Play (The Lists Of Mouse Clicks)](https://federicadomani.github.io/AutoClicker2-Record-Play/)
 
-> Updated Sep 28 2024. Better GUI emphasizing for Mouse Cur./Fixed Pos. clicking. New version 5.9.7.1 works on Windows 11.
+> Updated Oct 11 2024. Better GUI emphasizing for Mouse Cur./Fixed Pos. clicking. New version 5.9.7.1 works on Windows 11.
 
 ## Me, Seeking a Job
 
