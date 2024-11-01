@@ -17,9 +17,11 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Updated Oct 11 2024. Better GUI emphasizing for Mouse Cur./Fixed Pos. clicking. New version 5.9.7.1 works on Windows 11.
+> Updated Nov 01 2024. Better GUI emphasizing for Mouse Cur./Fixed Pos. clicking. New version 5.9.7.1 works on Windows 11.
 
 **{{page.description_rich}}**
+
+**[YouTube](https://youtu.be/G_6V7-We-kw)**
 
 <a name="QuickStart"></a>
 ## Quick Start
