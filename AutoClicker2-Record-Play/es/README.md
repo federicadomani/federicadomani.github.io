@@ -3,8 +3,8 @@ layout: default
 lang: 'es-BR'
 permalink: /AutoClicker2-Record-Play/es/
 title: AutoClicker2 Grabación de Juego (las Listas de Clics del Ratón)
-description_rich: Haga clic en el botón de ratón de código abierto (opautoclicker tenedor) para grabar, editar, importar, depurar y reproducir todas las secuencias de clics del ratón con los 5 botones. Previa 2024 tenedor de aplicación congelada o patentada <a href="https://www.opautoclicker.com" target="_blank">opautoclicker.com</a>, <a href="https://sourceforge.net/projects/orphamielautoclicker/" target="_blank">sourceforge.net</a>, <a href="https://www.autoclicker.io" target="_blank">autoclicker.io</a>, <a href="https://www.autoclicker.org" target="_blank">autoclicker.org</a>, <a href="https://www.macrorecorder.com" target="_blank">macrorecorder.com</a>, <a href="https://www.remouse.com" target="_blank">remouse.com</a>, etcétera.
-description: Haga clic en el botón de ratón de código abierto (opautoclicker tenedor) para grabar, editar, importar, depurar y reproducir todas las secuencias de clics del ratón con los 5 botones.
+description_rich: Haga clic en el botón de ratón de código abierto (opautoclicker tenedor) para grabar, editar, importar, depurar y reproducir todas las secuencias de clics con los 5 botones. Previa 2024 tenedor de aplicación congelada o patentada <a href="https://www.opautoclicker.com" target="_blank">opautoclicker.com</a>, <a href="https://sourceforge.net/projects/orphamielautoclicker/" target="_blank">sourceforge.net</a>, <a href="https://www.autoclicker.io" target="_blank">autoclicker.io</a>, <a href="https://www.autoclicker.org" target="_blank">autoclicker.org</a>, <a href="https://www.macrorecorder.com" target="_blank">macrorecorder.com</a>, <a href="https://www.remouse.com" target="_blank">remouse.com</a>, etcétera.
+description: Haga clic en el botón de ratón de código abierto (opautoclicker tenedor) para grabar, editar, importar, depurar y reproducir todas las secuencias de clics con los 5 botones.
 app_name: AutoClicker2 Record Play The Lists Of Mouse Clicks
 app_name_ex: AutoClicker2Ex Record Play The Lists Of Mouse Clicks
 app_version: 5.9.7.1
