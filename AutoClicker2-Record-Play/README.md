@@ -12,12 +12,15 @@ download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2
 download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/Setup-AutoClicker2-Record-Play-The-Lists-v5.9.7.1.exe
 source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
 show_downloads: true
+show_downloads_source_code: 'Source Code at GitHub'
+show_downloads_windows_installer: 'Windows Installer'
+show_downloads_downloads: 'DOWNLOADS'
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
 ---
 
 
 
-> Updated Dec 03 2024. Better GUI emphasizing for Mouse Cur./Fixed Pos. clicking. New version 5.9.7.1 works on Windows 11.
+> Updated Dec 26 2024. Added Spanish translations.
 
 **{{page.description_rich}}**
 
@@ -28,7 +31,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 ### Latest stable version&nbsp;{{page.app_version}}
 
-Official Download: [Mirror 1]({{page.download_link_main}})
+Official Download: <a class="downloads" href="{{ page.download_link_main }}"><img src="/windows.svg" alt="Windows" /><span class="large_disp">&nbsp;Windows Installer</span></a>
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{page.app_version}}
