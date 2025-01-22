@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 title: Open Source Developer Federica Domani
-description: Open Source Developer Federica Domani, author of AutoClicker2 Record Play (The Lists Of Mouse Clicks)
+description: Open Source Developer Federica Domani, author of AutoClicker2 Record Play
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
 ---
 
@@ -14,7 +14,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 [English]({{ site.url }}/AutoClicker2-Record-Play/) | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/)
 
-> Updated Dec 26 2024. Added Spanish translations.
+> Updated Jan 22 2025. Added Spanish translations. New version 5.9.8.0 has been released.
 
 ## Me, Seeking a Job
 
