@@ -2,8 +2,8 @@
 layout: default
 permalink: /AutoClicker2-Record-Play/
 title: AutoClicker2 Record Play
-description_rich: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons. Advanced 2025 replacer of frozen or proprietary OP, GS, GT AutoClicker, autoclicker.\*, macrorecorder, remouse, tinytask, orphamielautoclicker, murgaa, etc.
-description: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons. Advanced 2025 replacer of frozen or proprietary OP, GS, GT AutoClicker, autoclicker.\*, macrorecorder, remouse, tinytask, orphamielautoclicker, murgaa, etc.
+description_rich: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons. Advanced 2025 replacer of frozen or proprietary OP, GS, GT AutoClicker, autoclicker.*, macrorecorder, remouse, tinytask, orphamielautoclicker, murgaa, etc.
+description: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons. Advanced 2025 replacer of frozen or proprietary OP, GS, GT AutoClicker, autoclicker.*, macrorecorder, remouse, tinytask, orphamielautoclicker, murgaa, etc.
 app_name: AutoClicker2 Record Play
 app_name_ex: AutoClicker2Ex Record Play
 app_version: 5.9.8.0
