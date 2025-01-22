@@ -76,7 +76,7 @@ Yes, this is the only mouse auto clicker with strong record/edit/play capabiliti
 This is the only open source project that has regular commits into source tree in 2024.
 Perfectly compatible with Windows 7, Windows 8, Windows 10, [Windows 11](https://www.microsoft.com/en-us/software-download/windows11){:target="_blank"}, both 32-bit and 64-bit systems.
 
-AutoClicker2 Record Play The Lists Of Mouse Clicks is a new open source replacer of frozen, buggy, suspicious proprietary projects such as
+AutoClicker2 Record Play is a new open source replacer of frozen, buggy, suspicious proprietary projects such as
 [Orphamiel Auto-Clicker](https://sourceforge.net/projects/orphamielautoclicker/){:target="_blank"},
 [OP AutoClicker](https://www.opautoclicker.com){:target="_blank"},
 [AutoClicker.io](https://autoclicker.io){:target="_blank"},
@@ -92,7 +92,7 @@ Note all of that programs are closed-source clones of each other, have not been 
 many years and may contain trojan, malware or virus code as well as huge amount of embedded unwanted Ads and spy agents.
 
 Unlike suspicious "free" but proprietary or abandoned programs mentioned above,
-AutoClicker2 Record Play The Lists Of Mouse Clicks is 100% open source project, and supports professional gaming in
+AutoClicker2 Record Play is 100% open source project, and supports professional gaming in
 [Roblox](https://www.roblox.com){:target="_blank"},
 [Minecraft](https://en.wikipedia.org/wiki/Minecraft){:target="_blank"},
 [Cookie Clicker](https://en.wikipedia.org/wiki/Cookie_Clicker){:target="_blank"},
@@ -109,7 +109,7 @@ As its predecessors, AutoClicker2 is a full-fledged autoclicker with two modes o
 {{page.app_name}} Extended can operate with fine structures of clicking groups/sequences/lists. It allows to record the mouse actions with different clicking buttons, time intervals, etc.
 
 No more performing mouse clicks manually!
-With AutoClicker2 Record Play The Lists Of Mouse Clicks, you can automate the task of clicking repeatedly on a particular point on the PC screen.
+With AutoClicker2 Record Play, you can automate the task of clicking repeatedly on a particular point on the PC screen.
 Depending on the target point and clicking speed, number of clicks, mouse button, and other parameters, an action will be performed
 on your PC display on a fixed location, or through a sequence of mouse clicks you previously recorded, edited, and debugged.
 
@@ -139,7 +139,7 @@ Most important features of {{page.app_name}} are listed here.
 ## More info from the community fun site
 
 According to [top-10-mouse-auto-clickers.best](https://top-10-mouse-auto-clickers.best/),
-AutoClicker2 Record Play The Lists Of Mouse Clicks is the world's top 2 mouse auto clicker application in 2024.
+AutoClicker2 Record Play is the world's top 2 mouse auto clicker application in 2024.
 They recognize AutoClicker2 Record Play as a full-fledged autoclicker with two modes of auto-clicking,
 at your dynamic cursor location or at a prespecified location. The maximum amounts of clicks can also be set (or left infinite).
 Hotkeys work in the background for convenience. AutoClicker2 automates your mouse clicks at certain points.

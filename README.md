@@ -10,7 +10,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 ## My Projects
 
-### ![Windows](./windows.svg) AutoClicker2 Record Play (The Lists Of Mouse Clicks)
+### ![Windows](./windows.svg) AutoClicker2 Record Play
 
 [English]({{ site.url }}/AutoClicker2-Record-Play/) | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/)
 
