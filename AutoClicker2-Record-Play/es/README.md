@@ -21,7 +21,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Actualizado 22 de Enero 2025. Añadido traducción al Español. Se ha lanzado la nueva versión 5.9.8.0.
+> Actualizado 29 de Enero 2025. Añadido traducción al Español. Se ha lanzado la nueva versión 5.9.8.0.
 
 **{{page.description_rich}}**
 
