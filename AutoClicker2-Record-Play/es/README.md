@@ -8,9 +8,9 @@ description: Clicker automático de código abierto para grabar, editar, importa
 app_name: AutoClicker2 Record Play
 app_name_ex: AutoClicker2Ex Record Play
 app_version: 5.9.8.0
-download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Install_AutoClicker2RecordPlay_sfx_v5.9.8.0.exe
-download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Install_AutoClicker2RecordPlay_sfx_v5.9.8.0.exe
-download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Install_AutoClicker2RecordPlay_sfx_v5.9.8.0.exe
+download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/1/Install_AutoClicker2RecordPlay_rar_sfx_v5.9.8.0.exe
+download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/1/Install_AutoClicker2RecordPlay_rar_sfx_v5.9.8.0.exe
+download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/1/Install_AutoClicker2RecordPlay_rar_sfx_v5.9.8.0.exe
 source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
 show_downloads: true
 show_downloads_source_code: 'Código Fuente en GitHub'
