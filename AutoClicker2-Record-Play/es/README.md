@@ -21,7 +21,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Actualizado 29 de Enero 2025. Añadido traducción al Español. Se ha lanzado la nueva versión 5.9.8.0.
+> Actualizado 19 de Febrero 2025. Añadido traducción al Español. Se ha lanzado la nueva versión 5.9.8.0.
 
 **{{page.description_rich}}**
 
@@ -31,6 +31,8 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 ## Inicio Rápido
 
 ### Última versión estable&nbsp;{{page.app_version}}
+
+<div style="float: right; width: 40%; font-size: 1.8vmin; margin-top: 1.8vmin; color: #df6;">Marque esta aplicación como <b style="color: #fff;">LIMPIA</b> en su software antivirus.</div>
 
 Descargas Oficiales: <a class="downloads" href="{{ page.download_link_main }}"><img src="/windows.svg" alt="Windows" /><span class="large_disp">&nbsp;Installer de Windows</span></a>
 
