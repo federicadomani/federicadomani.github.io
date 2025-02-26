@@ -21,6 +21,9 @@
 <meta name="description" content="{{ page.description | default: site.description }}" />
 <meta property="og:description" content="{{ page.description | default: site.description }}" />
 <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+{% for alt in page.alternates %}
+<link rel="alternate" hreflang="{{ alt[0] }}" href="{{ site.url }}{{ site.baseurl }}{{ alt[1] }}" />
+{% endfor %}
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
 <meta property="og:site_name" content="{{ page.title | default: site.title }}" />
 <meta property="og:image" content="{{ site.url }}/og_thumb_1200x630.png" />
@@ -51,7 +54,7 @@
 "interactionStatistic":{
 "@type": "InteractionCounter",
 "interactionType": "https://schema.org/DownloadAction",
-"userInteractionCount": "42806089"
+"userInteractionCount": "43212930"
 },
 "applicationCategory":"Utilities",
 "applicationSubCategory":"Mouse Auto-Clicker",
@@ -68,7 +71,7 @@
 "aggregateRating":{
 "@type":"AggregateRating",
 "ratingValue": "4.8",
-"ratingCount": "148",
+"ratingCount": "150",
 "bestRating":"5",
 "worstRating":"0"
 },

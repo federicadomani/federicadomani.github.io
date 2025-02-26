@@ -1,7 +1,9 @@
 ---
 layout: default
-lang: 'es-BR'
+lang: 'es'
 permalink: /AutoClicker2-Record-Play/es/
+alternates:
+  en: /AutoClicker2-Record-Play/
 title: AutoClicker2 Grabación de Juego
 description_rich: Clicker automático de código abierto para grabar, editar, importar, depurar y reproducir secuencias completas de clics del mouse con 5 botones. Reemplazo avanzado 2025 de OP, GS, GT AutoClicker, macrorecorder, remouse, tinytask, murgaa, etc.
 description: Clicker automático de código abierto para grabar, editar, importar, depurar y reproducir secuencias completas de clics del mouse con 5 botones. Reemplazo avanzado 2025 de OP, GS, GT AutoClicker, macrorecorder, remouse, tinytask, murgaa, etc.
@@ -21,7 +23,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Actualizado 19 de Febrero 2025. Añadido traducción al Español. Se ha lanzado la nueva versión 5.9.8.0.
+> Actualizado {{ site.bdate }}.
 
 **{{page.description_rich}}**
 

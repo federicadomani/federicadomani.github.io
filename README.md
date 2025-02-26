@@ -14,7 +14,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 [English]({{ site.url }}/AutoClicker2-Record-Play/) | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/)
 
-> Updated Feb 19 2025. Added Spanish translations. New version 5.9.8.0 has been released.
+> Updated {{ site.bdate }}.
 
 ## Me, Seeking a Job
 

@@ -1,6 +1,9 @@
 ---
 layout: default
+lang: 'en'
 permalink: /AutoClicker2-Record-Play/
+alternates:
+  es: /AutoClicker2-Record-Play/es/
 title: AutoClicker2 Record Play
 description_rich: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons. Advanced 2025 replacer of OP, GS, GT AutoClicker, macrorecorder, remouse, tinytask, murgaa, etc.
 description: Open source mouse auto-clicker to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons. Advanced 2025 replacer of OP, GS, GT AutoClicker, macrorecorder, remouse, tinytask, murgaa, etc.
@@ -20,7 +23,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 
 
-> Updated Feb 19 2025. Added Spanish translations. New version 5.9.8.0 has been released.
+> Updated {{ site.bdate }}.
 
 **{{page.description_rich}}**
 

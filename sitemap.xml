@@ -1,21 +1,17 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://federicadomani.github.io/</loc>
-      <lastmod>2025-02-19</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://federicadomani.github.io/AutoClicker2-Record-Play/</loc>
-      <lastmod>2025-02-19</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://federicadomani.github.io/AutoClicker2-Record-Play/es/</loc>
-      <lastmod>2025-02-19</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
+    {% assign sorted_pages = site.pages | sort:"permalink" %}
+    {% for page in sorted_pages %}
+    {% if page.permalink %}
+    <url>
+        <loc>{{ site.burl }}{{ page.url | remove: 'index.html' }}</loc>
+        <lastmod>{{ site.bdate }}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    {% endif %}
+    {% endfor %}
 </urlset>
