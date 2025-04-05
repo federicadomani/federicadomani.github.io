@@ -4,9 +4,9 @@ lang: 'es'
 permalink: /AutoClicker2-Record-Play/es/
 alternates:
   en: /AutoClicker2-Record-Play/
-title: AutoClicker2 Grabación de Juego
-description_rich: Clicker automático de código abierto para grabar, editar, importar, depurar y reproducir secuencias completas de clics del mouse con 5 botones. Reemplazo avanzado 2025 de OP, GS, GT AutoClicker, macrorecorder, remouse, tinytask, murgaa, etc.
-description: Clicker automático de código abierto para grabar, editar, importar, depurar y reproducir secuencias completas de clics del mouse con 5 botones. Reemplazo avanzado 2025 de OP, GS, GT AutoClicker, macrorecorder, remouse, tinytask, murgaa, etc.
+title: AutoClicker2 Grabación de Juego | Moderna bifurcación de OP Auto Clicker
+description_rich: Moderna bifurcación de OP Auto Clicker en 2025 para grabar, editar, importar, depurar y reproducir secuencias completas de clics del ratón con 5 botones. Reemplaza macros, remouse, tinytask, murgaa, etc.
+description: Moderna bifurcación de OP Auto Clicker en 2025 para grabar, editar, importar, depurar y reproducir secuencias completas de clics del ratón con 5 botones. Reemplaza macros, remouse, tinytask, murgaa, etc.
 app_name: AutoClicker2 Record Play
 app_name_ex: AutoClicker2Ex Record Play
 app_version: 5.9.8.0

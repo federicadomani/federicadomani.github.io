@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 title: Open Source Developer Federica Domani
-description: Open Source Developer Federica Domani, author of AutoClicker2 Record Play
+description: Open Source Developer Federica Domani, author of AutoClicker2 Record Play, modern OP Auto Clicker fork
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
 ---
 
