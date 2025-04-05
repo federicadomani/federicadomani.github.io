@@ -27,7 +27,19 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 **{{page.description_rich}}**
 
-**[YouTube](https://youtu.be/G_6V7-We-kw)**
+<div class="video-container">
+    <iframe
+        width="280"
+        height="498"
+        src="https://www.youtube.com/embed/MtrP3doKQtU?rel=0&modestbranding=1"
+        title="How to use OP Auto Clicker in Minecraft Java in 2025"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+    <img src="/assets/images/apptitle.png" width="280" height="498" alt="AutoClicker2 Record Play | Modern OP Auto Clicker fork" />
+</div>
 
 <a name="QuickStart"></a>
 ## Quick Start

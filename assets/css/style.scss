@@ -72,6 +72,13 @@ a.downloads:hover {
   box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(0, 0, 0, 0);
 }
 
+.video-container {
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 177%;
+  max-height: 177%;  
+  overflow: hidden;
+}
 
 
 @media only screen and (max-width: 767px) {
