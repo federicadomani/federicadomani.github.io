@@ -41,7 +41,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
     <img src="/assets/images/apptitle.png" width="280" height="498" alt="AutoClicker2 Record Play | Modern OP Auto Clicker fork" />
 </div>
 
-**More than 1500 views on Youtube!**
+**More than 2800 views on Youtube!**
 
 <a name="QuickStart"></a>
 ## Quick Start

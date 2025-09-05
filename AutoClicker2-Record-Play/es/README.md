@@ -41,7 +41,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
     <img src="/assets/images/apptitle.png" width="280" height="498" alt="AutoClicker2 Grabación de Juego | Moderna bifurcación de OP Auto Clicker" />
 </div>
 
-**¡Más de 1500 visitas en Youtube!**
+**¡Más de 5700 visitas en Youtube!**
 
 <a name="QuickStart"></a>
 ## Inicio Rápido

@@ -14,6 +14,8 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 [English]({{ site.url }}/AutoClicker2-Record-Play/){:target="_blank"} | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/){:target="_blank"}
 
+**More than 8500 views on [Youtube channel](https://www.youtube.com/@AutoClicker2-Record-Play/shorts){:target="_blank"} in English and Spanish!**
+
 ## About Me
 
 I am a Senior C#/.Net Software Developer, writing sophisticated programs for Windows 10, Windows 11, Windows Enterprise Server.
