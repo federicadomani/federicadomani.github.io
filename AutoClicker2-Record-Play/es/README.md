@@ -5,7 +5,7 @@ permalink: /AutoClicker2-Record-Play/es/
 alternates:
   en: /AutoClicker2-Record-Play/
   hi: /AutoClicker2-Record-Play/hi/
-title: AutoClicker2 Grabación de Juego | Moderna bifurcación de OP Auto Clicker
+title: AutoClicker2 Grabación Juego | Moderna OP Auto Clicker
 description_rich: Modern 2025 OP Auto Clicker fork para grabar, editar, importar, depurar y reproducir secuencias completas de clics del mouse con 5 botones del mouse
 description: Modern 2025 OP Auto Clicker fork para grabar, editar, importar, depurar y reproducir secuencias completas de clics del mouse con 5 botones del mouse
 app_name: AutoClicker2 Record Play
