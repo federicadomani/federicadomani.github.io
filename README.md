@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /
-title: Open Source Developer Federica Domani
-description: Open Source Developer Federica Domani, author of AutoClicker2 Record Play, modern OP Auto Clicker fork
+title: author of AutoClicker2 Record Play, modern OP Auto Clicker fork
+description: Open Source Developer Federica Domani, author of modern OP Auto Clicker fork to record, edit, import, and playback the whole sequences of mouse clicks
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
 ---
 
@@ -12,9 +12,9 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 ### ![Windows](./windows.svg) AutoClicker2 Record Play | AutoClicker2 Grabación de Juego
 
-[English]({{ site.url }}/AutoClicker2-Record-Play/){:target="_blank"} | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/){:target="_blank"}
+[English]({{ site.url }}/AutoClicker2-Record-Play/){:target="_blank"} | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/){:target="_blank"} | [हिंदी]({{ site.url }}/AutoClicker2-Record-Play/hi/){:target="_blank"}
 
-**More than 8500 views on [Youtube channel](https://www.youtube.com/@AutoClicker2-Record-Play/shorts){:target="_blank"} in English and Spanish!**
+**More than 10500 views on [Youtube channel](https://www.youtube.com/@AutoClicker2-Record-Play/shorts){:target="_blank"} in English, Spanish, and Hindi!**
 
 ## About Me
 

@@ -4,9 +4,10 @@ lang: 'en'
 permalink: /AutoClicker2-Record-Play/
 alternates:
   es: /AutoClicker2-Record-Play/es/
+  hi: /AutoClicker2-Record-Play/hi/
 title: AutoClicker2 Record Play | Modern OP Auto Clicker fork
-description_rich: Modern 2025 OP Auto Clicker fork to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons. Replacer for macrorecorder, remouse, tinytask, murgaa, etc.
-description: Modern 2025 OP Auto Clicker fork to record, edit, import, debug, and playback the whole sequences of mouse clicks with 5 mouse buttons. Replacer for macrorecorder, remouse, tinytask, murgaa, etc.
+description_rich: Modern 2025 OP Auto Clicker fork to record, edit, import, debug, and playback the whole sequences of mouse clicks with the 5 mouse buttons support
+description: Modern 2025 OP Auto Clicker fork to record, edit, import, debug, and playback the whole sequences of mouse clicks with the 5 mouse buttons support
 app_name: AutoClicker2 Record Play
 app_name_ex: AutoClicker2Ex Record Play
 app_version: 5.9.8.0
@@ -41,7 +42,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
     <img src="/assets/images/apptitle.png" width="280" height="498" alt="AutoClicker2 Record Play | Modern OP Auto Clicker fork" />
 </div>
 
-**More than 2800 views on Youtube!**
+**More than 10500 views on Youtube!**
 
 <a name="QuickStart"></a>
 ## Quick Start
@@ -50,7 +51,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 <div style="float: right; width: 40%; font-size: 1.8vmin; margin-top: 1.8vmin; color: #df6;">Mark this app as <b style="color: #fff;">CLEAN</b> in your antivirus software.</div>
 
-Official Download: <a class="downloads" href="{{ page.download_link_main }}"><img src="/windows.svg" alt="Windows" /><span class="large_disp">&nbsp;Windows Installer</span></a>
+Official Download: <a class="downloads" href="{{ page.download_link_main }}"><img src="/windows.svg" alt="Windows" /><span class="large_disp">&nbsp;{{ page.show_downloads_windows_installer }}</span></a>
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{page.app_version}}
@@ -157,8 +158,7 @@ Most important features of {{page.app_name}} are listed here.
 
 ## More info from the community fun site
 
-According to [top-10-mouse-auto-clickers.best](https://top-10-mouse-auto-clickers.best/),
-AutoClicker2 Record Play is the world's top 2 mouse auto clicker application in 2024.
+AutoClicker2 Record Play is the world's top 2 mouse auto clicker application in 2025.
 They recognize AutoClicker2 Record Play as a full-fledged autoclicker with two modes of auto-clicking,
 at your dynamic cursor location or at a prespecified location. The maximum amounts of clicks can also be set (or left infinite).
 Hotkeys work in the background for convenience. AutoClicker2 automates your mouse clicks at certain points.
