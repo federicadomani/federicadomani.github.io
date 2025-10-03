@@ -10,7 +10,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 ## My Projects
 
-### ![Windows](./windows.svg) AutoClicker2 Record Play | AutoClicker2 Grabación de Juego
+### ![Windows](./windows.svg) AutoClicker2 Record Play | AutoClicker2 Grabación Juego | AutoClicker2 रिकॉर्ड प्ले
 
 [English]({{ site.url }}/AutoClicker2-Record-Play/){:target="_blank"} | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/){:target="_blank"} | [हिंदी]({{ site.url }}/AutoClicker2-Record-Play/hi/){:target="_blank"}
 
