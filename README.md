@@ -4,6 +4,10 @@ permalink: /
 title: author of AutoClicker2 Record Play, modern OP Auto Clicker fork
 description: Open Source Developer Federica Domani, author of modern OP Auto Clicker fork to record, edit, import, and playback the whole sequences of mouse clicks
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
+show_downloads_windows_installer: 'MSI Windows Installer'
+download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Installer_AC2RecordPlay_v5.9.9.0.msi
 ---
 
 > Updated {{ site.bdate }}.
@@ -14,7 +18,11 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 
 [English]({{ site.url }}/AutoClicker2-Record-Play/){:target="_blank"} | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/){:target="_blank"} | [हिंदी]({{ site.url }}/AutoClicker2-Record-Play/hi/){:target="_blank"}
 
-**More than 10500 views on [Youtube channel](https://www.youtube.com/@AutoClicker2-Record-Play/shorts){:target="_blank"} in English, Spanish, and Hindi!**
+**More than 12357 views on [Youtube channel](https://www.youtube.com/@AutoClicker2-Record-Play/shorts){:target="_blank"} in English, Spanish, and Hindi!**
+
+<div style="float: right; width: 40%; font-size: 1.8vmin; margin-top: 1.8vmin; color: #df6;">Mark this app as <b style="color: #fff;">CLEAN</b> in your antivirus software.</div>
+
+Official Download: <a class="downloads" href="{{ page.download_link_main }}"><img src="/windows.svg" alt="Windows" /><span class="large_disp">&nbsp;{{ page.show_downloads_windows_installer }}</span></a>
 
 ## About Me
 

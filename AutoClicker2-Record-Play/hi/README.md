@@ -10,14 +10,14 @@ description_rich: आधुनिक 2025 OP Auto Clicker फोर्क 5 म�
 description: आधुनिक 2025 OP Auto Clicker फोर्क 5 माउस बटन समर्थन के साथ माउस क्लिक के पूरे अनुक्रम को रिकॉर्ड, संपादित, आयात, डीबग और प्लेबैक करने के लिए
 app_name: AutoClicker2 Record Play
 app_name_ex: AutoClicker2Ex Record Play
-app_version: 5.9.8.0
-download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/2/Install_AutoClicker2RecordPlay_rar_sfx_v5.9.8.0.exe
-download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/2/Install_AutoClicker2RecordPlay_rar_sfx_v5.9.8.0.exe
-download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/2/Install_AutoClicker2RecordPlay_rar_sfx_v5.9.8.0.exe
+app_version: 5.9.9.0
+download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Installer_AC2RecordPlay_v5.9.9.0.msi
 source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
 show_downloads: true
 show_downloads_source_code: 'GitHub पर स्रोत कोड'
-show_downloads_windows_installer: 'Windows इंस्टॉलर'
+show_downloads_windows_installer: 'MSI Windows इंस्टॉलर'
 show_downloads_downloads: 'डाउनलोड'
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
 ---
@@ -42,7 +42,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
     <img src="/assets/images/apptitle.png" width="280" height="498" alt="AutoClicker2 रिकॉर्ड प्ले | आधुनिक OP Auto Clicker फ़ोर्क" />
 </div>
 
-**यूट्यूब पर 10500 से अधिक बार देखा गया!**
+**यूट्यूब पर 12357 से अधिक बार देखा गया!**
 
 <a name="QuickStart"></a>
 ## तुरंत शुरुआत

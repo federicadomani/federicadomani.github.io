@@ -10,14 +10,14 @@ description_rich: Modern 2025 OP Auto Clicker fork to record, edit, import, debu
 description: Modern 2025 OP Auto Clicker fork to record, edit, import, debug, and playback the whole sequences of mouse clicks with the 5 mouse buttons support
 app_name: AutoClicker2 Record Play
 app_name_ex: AutoClicker2Ex Record Play
-app_version: 5.9.8.0
-download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/2/Install_AutoClicker2RecordPlay_rar_sfx_v5.9.8.0.exe
-download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/2/Install_AutoClicker2RecordPlay_rar_sfx_v5.9.8.0.exe
-download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/2/Install_AutoClicker2RecordPlay_rar_sfx_v5.9.8.0.exe
+app_version: 5.9.9.0
+download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/Installer_AC2RecordPlay_v5.9.9.0.msi
 source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
 show_downloads: true
 show_downloads_source_code: 'Source Code at GitHub'
-show_downloads_windows_installer: 'Windows Installer'
+show_downloads_windows_installer: 'MSI Windows Installer'
 show_downloads_downloads: 'DOWNLOADS'
 github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks
 ---
@@ -42,7 +42,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
     <img src="/assets/images/apptitle.png" width="280" height="498" alt="AutoClicker2 Record Play | Modern OP Auto Clicker fork" />
 </div>
 
-**More than 10500 views on Youtube!**
+**More than 12357 views on Youtube!**
 
 <a name="QuickStart"></a>
 ## Quick Start

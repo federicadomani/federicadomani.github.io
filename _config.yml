@@ -1,5 +1,5 @@
 burl: https://federicadomani.github.io
-bdate: 2025-10-03
+bdate: 2025-10-21
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
@@ -11,4 +11,4 @@ description_rich: Modern 2025 OP Auto Clicker fork to record, edit, import, debu
 description: Modern 2025 OP Auto Clicker fork to record, edit, import, debug, and playback the whole sequences of mouse clicks with the 5 mouse buttons support
 app_name: AutoClicker2 Record Play
 app_name_ex: AutoClicker2Ex Record Play
-app_version: 5.9.8.0
+app_version: 5.9.9.0
