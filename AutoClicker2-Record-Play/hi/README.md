@@ -11,9 +11,9 @@ description: आधुनिक 2025 OP Auto Clicker फोर्क 5 माउ
 app_name: AutoClicker2 Record Play
 app_name_ex: AutoClicker2Ex Record Play
 app_version: 5.9.9.0
-download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD/Installer_AC2RecordPlay_v5.9.9.0.msi
-download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD/Installer_AC2RecordPlay_v5.9.9.0.msi
-download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD2T/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD2T/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD2T/Installer_AC2RecordPlay_v5.9.9.0.msi
 source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
 show_downloads: true
 show_downloads_source_code: 'GitHub पर स्रोत कोड'
@@ -27,6 +27,14 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 > अपडेट किया गया {{ site.bdate }}.
 
 **{{page.description_rich}}**
+
+## नवीनतम स्थिर संस्करण&nbsp;{{page.app_version}}
+
+!["AutoClicker2" एप्लिकेशन संस्करण {{page.app_version}}](/AutoClicker2-Record-Play/screenshots_new/v{{page.app_version}}/AutoClicker2.png) | !["AutoClicker2Ex" एप्लिकेशन संस्करण {{page.app_version}}](/AutoClicker2-Record-Play/screenshots_new/v{{page.app_version}}/AutoClicker2Ex.png)
+
+<div style="float: right; width: 40%; font-size: 1.8vmin; margin-top: 1.8vmin; color: #df6;">अपने एंटीवायरस सॉफ़्टवेयर में इस ऐप को <b style="color: #fff;">क्लीन ऐप</b> के रूप में चिह्नित करें।.</div>
+
+आधिकारिक डाउनलोड: <a class="downloads" href="{{ page.download_link_main }}"><img src="/windows.svg" alt="Windows" /><span class="large_disp">&nbsp;{{ page.show_downloads_windows_installer }}</span></a>
 
 <div class="video-container">
     <iframe

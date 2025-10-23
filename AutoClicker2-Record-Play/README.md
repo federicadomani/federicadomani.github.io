@@ -11,9 +11,9 @@ description: Modern 2025 OP Auto Clicker fork to record, edit, import, debug, an
 app_name: AutoClicker2 Record Play
 app_name_ex: AutoClicker2Ex Record Play
 app_version: 5.9.9.0
-download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD/Installer_AC2RecordPlay_v5.9.9.0.msi
-download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD/Installer_AC2RecordPlay_v5.9.9.0.msi
-download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD2T/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_main_prev: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD2T/Installer_AC2RecordPlay_v5.9.9.0.msi
+download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Record-Play/SOFTUPD2T/Installer_AC2RecordPlay_v5.9.9.0.msi
 source_issues_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks/issues/
 show_downloads: true
 show_downloads_source_code: 'Source Code at GitHub'
@@ -27,6 +27,14 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
 > Updated {{ site.bdate }}.
 
 **{{page.description_rich}}**
+
+## Latest stable version&nbsp;{{page.app_version}}
+
+!["AutoClicker2" application version {{page.app_version}}](/AutoClicker2-Record-Play/screenshots_new/v{{page.app_version}}/AutoClicker2.png) | !["AutoClicker2Ex" application version {{page.app_version}}](/AutoClicker2-Record-Play/screenshots_new/v{{page.app_version}}/AutoClicker2Ex.png)
+
+<div style="float: right; width: 40%; font-size: 1.8vmin; margin-top: 1.8vmin; color: #df6;">Mark this app as <b style="color: #fff;">CLEAN</b> in your antivirus software.</div>
+
+Official Download: <a class="downloads" href="{{ page.download_link_main }}"><img src="/windows.svg" alt="Windows" /><span class="large_disp">&nbsp;{{ page.show_downloads_windows_installer }}</span></a>
 
 <div class="video-container">
     <iframe
