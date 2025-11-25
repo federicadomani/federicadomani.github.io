@@ -5,6 +5,7 @@ permalink: /AutoClicker2-Record-Play/hi/
 alternates:
   en: /AutoClicker2-Record-Play/
   es: /AutoClicker2-Record-Play/es/
+  zh: /AutoClicker2-Record-Play/zh/
 title: AutoClicker2 रिकॉर्ड प्ले | आधुनिक OP Auto Clicker फ़ोर्क
 description_rich: आधुनिक 2025 OP Auto Clicker फोर्क 5 माउस बटन समर्थन के साथ माउस क्लिक के पूरे अनुक्रम को रिकॉर्ड, संपादित, आयात, डीबग और प्लेबैक करने के लिए
 description: आधुनिक 2025 OP Auto Clicker फोर्क 5 माउस बटन समर्थन के साथ माउस क्लिक के पूरे अनुक्रम को रिकॉर्ड, संपादित, आयात, डीबग और प्लेबैक करने के लिए
@@ -50,7 +51,7 @@ github_url: https://github.com/federicadomani/AutoClicker2-Record-Play-The-Lists
     <img src="/assets/images/apptitle.png" width="280" height="498" alt="AutoClicker2 रिकॉर्ड प्ले | आधुनिक OP Auto Clicker फ़ोर्क" />
 </div>
 
-**यूट्यूब पर 12357 से अधिक बार देखा गया!**
+**यूट्यूब पर 17500 से अधिक बार देखा गया!**
 
 <a name="QuickStart"></a>
 ## तुरंत शुरुआत

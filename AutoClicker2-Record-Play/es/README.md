@@ -5,6 +5,7 @@ permalink: /AutoClicker2-Record-Play/es/
 alternates:
   en: /AutoClicker2-Record-Play/
   hi: /AutoClicker2-Record-Play/hi/
+  zh: /AutoClicker2-Record-Play/zh/
 title: AutoClicker2 Grabación Juego | Moderna OP Auto Clicker
 description_rich: Modern 2025 OP Auto Clicker fork para grabar, editar, importar, depurar y reproducir secuencias completas de clics del mouse con 5 botones del mouse
 description: Modern 2025 OP Auto Clicker fork para grabar, editar, importar, depurar y reproducir secuencias completas de clics del mouse con 5 botones del mouse
@@ -50,7 +51,7 @@ Descargas Oficiales: <a class="downloads" href="{{ page.download_link_main }}"><
     <img src="/assets/images/apptitle.png" width="280" height="498" alt="AutoClicker2 Grabación de Juego | Moderna bifurcación de OP Auto Clicker" />
 </div>
 
-**¡Más de 12357 visitas en Youtube!**
+**¡Más de 17500 visitas en Youtube!**
 
 <a name="QuickStart"></a>
 ## Inicio Rápido

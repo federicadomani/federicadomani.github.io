@@ -15,9 +15,10 @@ download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/AutoClicker2-Re
 
 ## My Projects
 
-### ![Windows](./windows.svg) AutoClicker2 Record Play | AutoClicker2 Grabación Juego | AutoClicker2 रिकॉर्ड प्ले
+### ![Windows](./windows.svg) AutoClicker2 Record Play | AutoClicker2 Grabación Juego | AutoClicker2 रिकॉर्ड प्ले | AutoClicker2 唱片播放
 
-[English]({{ site.url }}/AutoClicker2-Record-Play/){:target="_blank"} | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/){:target="_blank"} | [हिंदी]({{ site.url }}/AutoClicker2-Record-Play/hi/){:target="_blank"}
+[English]({{ site.url }}/AutoClicker2-Record-Play/){:target="_blank"} | [Español]({{ site.url }}/AutoClicker2-Record-Play/es/){:target="_blank"}
+[हिंदी]({{ site.url }}/AutoClicker2-Record-Play/hi/){:target="_blank"} | [普通繁體中文]({{ site.url }}/AutoClicker2-Record-Play/zh/){:target="_blank"}
 
 **More than 12357 views on [Youtube channel](https://www.youtube.com/@AutoClicker2-Record-Play/shorts){:target="_blank"} in English, Spanish, and Hindi!**
 

@@ -5,6 +5,7 @@ permalink: /AutoClicker2-Record-Play/
 alternates:
   es: /AutoClicker2-Record-Play/es/
   hi: /AutoClicker2-Record-Play/hi/
+  zh: /AutoClicker2-Record-Play/zh/
 title: AutoClicker2 Record Play | Modern OP Auto Clicker fork
 description_rich: Modern 2025 OP Auto Clicker fork to record, edit, import, debug, and playback the whole sequences of mouse clicks with the 5 mouse buttons support
 description: Modern 2025 OP Auto Clicker fork to record, edit, import, debug, and playback the whole sequences of mouse clicks with the 5 mouse buttons support
@@ -50,7 +51,7 @@ Official Download: <a class="downloads" href="{{ page.download_link_main }}"><im
     <img src="/assets/images/apptitle.png" width="280" height="498" alt="AutoClicker2 Record Play | Modern OP Auto Clicker fork" />
 </div>
 
-**More than 12357 views on Youtube!**
+**More than 17500 views on Youtube!**
 
 <a name="QuickStart"></a>
 ## Quick Start
@@ -93,7 +94,7 @@ Found a bug? Create the [issue]({{page.source_issues_url}}){:target="_blank"}!
 
 ### Rebranding
 
-The project is undergoing re-branding from "RPG AutoClicker Professional Suite for Windows" and "AutoClicker2 Record-Play for Windows" to "{{page.app_name}}". Some text labels in the application and the site may be inconsistent.
+The project has been re-branded from "RPG AutoClicker Professional Suite for Windows" and "AutoClicker2 Record-Play for Windows" to "{{page.app_name}}". Some text labels in the application and the site may be inconsistent.
 
 <a name="DetailedDescription"></a>
 ## Detailed Description
@@ -101,7 +102,7 @@ The project is undergoing re-branding from "RPG AutoClicker Professional Suite f
 {{page.app_name}} {{page.app_version}} supports record, edit, debug, import, export, and playback the whole sequences of mouse clicks.
 
 Yes, this is the only mouse auto clicker with strong record/edit/play capabilities for professional work with sequences of mouse clicks.
-This is the only open source project that has regular commits into source tree in 2024.
+This is the only open source project that has regular commits into source tree in 2025.
 Perfectly compatible with Windows 7, Windows 8, Windows 10, [Windows 11](https://www.microsoft.com/en-us/software-download/windows11){:target="_blank"}, both 32-bit and 64-bit systems.
 
 AutoClicker2 Record Play is a new open source replacer of frozen, buggy, suspicious proprietary projects such as
